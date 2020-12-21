@@ -481,12 +481,24 @@ Apparel & Accessories > Jewelry > Rings
 Apparel & Accessories > Jewelry > Silver Bar
 Apparel & Accessories > Jewelry > Tie clips & Cufflinks
 Apparel & Accessories > Jewelry > Watch Accessories
+Apparel & Accessories > Jewelry > Watch Accessories > Pocket Watch Chains
+Apparel & Accessories > Jewelry > Watch Accessories > Repair Tools & Kits
 Apparel & Accessories > Jewelry > Watch Accessories > Watch Bands
-Apparel & Accessories > Jewelry > Watch Accessories > Watch Stickers & Decals
+Apparel & Accessories > Jewelry > Watch Accessories > Watch Batteries
+Apparel & Accessories > Jewelry > Watch Accessories > Watch Boxes
+Apparel & Accessories > Jewelry > Watch Accessories > Watch Buckle
+Apparel & Accessories > Jewelry > Watch Accessories > Watch Cases
+Apparel & Accessories > Jewelry > Watch Accessories > Watch charger
+Apparel & Accessories > Jewelry > Watch Accessories > Watch Faces
+Apparel & Accessories > Jewelry > Watch Accessories > Watch Hands
+Apparel & Accessories > Jewelry > Watch Accessories > Watch Movement
+Apparel & Accessories > Jewelry > Watch Accessories > Watch Screen Protectors
+Apparel & Accessories > Jewelry > Watch Accessories > Watch Stents
 Apparel & Accessories > Jewelry > Watch Accessories > Watch Winders
 Apparel & Accessories > Jewelry > Watches
 Apparel & Accessories > Jewelry > Watches > Analog Watches
 Apparel & Accessories > Jewelry > Watches > Digital Watches
+Apparel & Accessories > Jewelry > Watches > Mechanical Watches
 Apparel & Accessories > Jewelry > Jewelry Making > Jewelry Findings & Components
 Apparel & Accessories > Jewelry > Jewelry Making > Jewelry Making Kits
 Apparel & Accessories > Jewelry > Jewelry Packaging & Display
@@ -563,3 +575,28 @@ Apparel & Accessories > Shoes > Sandals > Fisherman Sandals
 Apparel & Accessories > Shoes > Sandals > Slide Sandals
 Apparel & Accessories > Shoes > Sandals > Thongs & Flip-Flops
 Apparel & Accessories > Shoes > Slippers
+Apparel & Accessories > World Apparel
+Apparel & Accessories > World Apparel > Africa Clothing
+Apparel & Accessories > World Apparel > American Clothing
+Apparel & Accessories > World Apparel > Asia & Pacific Islands Clothing
+Apparel & Accessories > World Apparel > European Clothing
+Apparel & Accessories > World Apparel > India & Pakistan Clothing
+Apparel & Accessories > World Apparel > Muslim Fashion
+Apparel & Accessories > World Apparel > Muslim Fashion > Abaya 
+Apparel & Accessories > World Apparel > Muslim Fashion > Dresses 
+Apparel & Accessories > World Apparel > Muslim Fashion > Jubba Thobe 
+Apparel & Accessories > World Apparel > Muslim Fashion > Kebaya 
+Apparel & Accessories > World Apparel > Muslim Fashion > Muslim Sets 
+Apparel & Accessories > World Apparel > Muslim Fashion > Prayer Hats 
+Apparel & Accessories > World Apparel > Muslim Fashion > Women's Bottoms 
+Apparel & Accessories > World Apparel > Muslim Fashion > Women's Hijabs 
+Apparel & Accessories > World Apparel > Muslim Fashion > Women's Outwear 
+Apparel & Accessories > World Apparel > Muslim Fashion > Women's Prayer Garment 
+Apparel & Accessories > World Apparel > Muslim Fashion > Women's Tops 
+Apparel & Accessories > World Apparel > Traditional Chinese Clothing 
+Apparel & Accessories > World Apparel > Traditional Chinese Clothing > Bottoms 
+Apparel & Accessories > World Apparel > Traditional Chinese Clothing > Cheongsams 
+Apparel & Accessories > World Apparel > Traditional Chinese Clothing > Hanfu 
+Apparel & Accessories > World Apparel > Traditional Chinese Clothing > Robe & Gown 
+Apparel & Accessories > World Apparel > Traditional Chinese Clothing > Sets 
+Apparel & Accessories > World Apparel > Traditional Chinese Clothing > Tops 
