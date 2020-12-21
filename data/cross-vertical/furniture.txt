@@ -13,6 +13,7 @@ Furniture > Baby & Toddler Furniture > High Chair & Booster Seat Accessories
 Furniture > Baby & Toddler Furniture > High Chairs & Booster Seats
 Furniture > Baby & Toddler Furniture > High Chairs & Boosters
 Furniture > Baby & Toddler Furniture > Playroom Furniture
+Furniture > Children Furniture
 Furniture > Children Furniture > Children Beds
 Furniture > Children Furniture > Children Cabinets
 Furniture > Children Furniture > Children Chairs
@@ -180,6 +181,8 @@ Furniture > Bar Furniture > Bar Furniture Sets
 Furniture > Bar Furniture > Bar Stools
 Furniture > Bar Furniture > Bar Tables
 Furniture > Bar Furniture > Bar & Wine Cabinets
+Furniture > Commercial Furniture
+Furniture > Commercial Furniture > Hotel Furniture
 Furniture > Commercial Furniture > Hotel Furniture > Hotel Beds 
 Furniture > Commercial Furniture > Hotel Furniture > Hotel Chairs 
 Furniture > Commercial Furniture > Hotel Furniture > Hotel Sofas 
@@ -187,26 +190,33 @@ Furniture > Commercial Furniture > Hotel Furniture > Hotel Trolley
 Furniture > Commercial Furniture > Hotel Furniture > Luggage Racks 
 Furniture > Commercial Furniture > Laboratory Furniture
 Furniture > Commercial Furniture > Library Furniture
+Furniture > Commercial Furniture > Restaurant Furniture
 Furniture > Commercial Furniture > Restaurant Furniture > Restaurant Chairs 
 Furniture > Commercial Furniture > Restaurant Furniture > Restaurant Sets 
 Furniture > Commercial Furniture > Restaurant Furniture > Restaurant Tables 
+Furniture > Commercial Furniture > Salon Furniture
 Furniture > Commercial Furniture > Salon Furniture > Barber Chairs 
 Furniture > Commercial Furniture > Salon Furniture > Massage Tables & Beds 
 Furniture > Commercial Furniture > Salon Furniture > Nail Tables 
 Furniture > Commercial Furniture > Salon Furniture > Pedicure Chairs 
 Furniture > Commercial Furniture > Salon Furniture > Salon Trolley 
 Furniture > Commercial Furniture > Salon Furniture > Shampoo Chairs 
+Furniture > Commercial Furniture > School Furniture
 Furniture > Commercial Furniture > School Furniture > School Chairs 
 Furniture > Commercial Furniture > School Furniture > School Desks 
 Furniture > Commercial Furniture > School Furniture > School Sets 
 Furniture > Commercial Furniture > Theater Furniture
 Furniture > Commercial Furniture > Waiting Chairs
 Furniture > Furniture Accessories
+Furniture > Furniture Parts
 Furniture > Furniture Parts > Furniture Frames
 Furniture > Furniture Parts > Furniture Legs
+Furniture > Home Furniture
+Furniture > Home Furniture > Bathroom Furniture
 Furniture > Home Furniture > Bathroom Furniture > Bathroom Cabinets 
 Furniture > Home Furniture > Bathroom Furniture > Bathroom Chairs & Stools 
 Furniture > Home Furniture > Bathroom Furniture > Bathroom Furniture Sets 
+Furniture > Home Furniture > Bedroom Furniture
 Furniture > Home Furniture > Bedroom Furniture > Bed Bases & Frames 
 Furniture > Home Furniture > Bedroom Furniture > Bedroom Sets 
 Furniture > Home Furniture > Bedroom Furniture > Beds 
@@ -215,14 +225,17 @@ Furniture > Home Furniture > Bedroom Furniture > Headboards
 Furniture > Home Furniture > Bedroom Furniture > Mattresses 
 Furniture > Home Furniture > Bedroom Furniture > Nightstands 
 Furniture > Home Furniture > Bedroom Furniture > Wardrobes 
+Furniture > Home Furniture > Dining Room Furniture
 Furniture > Home Furniture > Dining Room Furniture > Dining Chairs 
 Furniture > Home Furniture > Dining Room Furniture > Dining Room Sets 
 Furniture > Home Furniture > Dining Room Furniture > Dining Stools & Benches 
 Furniture > Home Furniture > Dining Room Furniture > Dining Tables 
 Furniture > Home Furniture > Dining Room Furniture > Sideboards 
+Furniture > Home Furniture > Kitchen Furniture
 Furniture > Home Furniture > Kitchen Furniture > Kitchen Cabinets 
 Furniture > Home Furniture > Kitchen Furniture > Kitchen Islands & Trolleys 
 Furniture > Home Furniture > Kitchen Furniture > Step Stools & Step Ladders 
+Furniture > Home Furniture > Living Room Furniture
 Furniture > Home Furniture > Living Room Furniture > Bean Bag Sofas 
 Furniture > Home Furniture > Living Room Furniture > Bookcases 
 Furniture > Home Furniture > Living Room Furniture > CD Racks 

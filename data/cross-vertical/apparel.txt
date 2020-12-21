@@ -245,23 +245,105 @@ Apparel & Accessories > Clothing Accessories > Gloves & Mittens > Formal Gloves
 Apparel & Accessories > Clothing Accessories > Gloves & Mittens > Gloves
 Apparel & Accessories > Clothing Accessories > Gloves & Mittens > Mittens
 Apparel & Accessories > Clothing Accessories > Gloves & Mittens > Ski & Snowboard Gloves
-Apparel & Accessories > Clothing Accessories > Hair Accessories
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Hair Bun & Volume Shapers
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Hair Claws
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Hair Combs
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Hair Extensions
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Hair Forks & Sticks
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Hair Nets
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Hair Pins & Clips
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Hair Pins, Claws & Clips
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Hair Wreaths
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Headbands
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Ponytail Holders
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Tiaras
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Wig Accessories
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Wig Accessories > Wig Caps
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Wig Accessories > Wig Glue & Tape
-Apparel & Accessories > Clothing Accessories > Hair Accessories > Wigs
+Apparel & Accessories > Hair & Wigs > Hair Accessories
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Adhesives
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Pins & Clips
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Color Rings
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Connectors
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Glue Sticks
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Bleach & Dye Kits
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Braiding Kits
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Capes
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Curlers
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Drying Towels
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Extension Storage & Carrier
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Hackle
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Nets
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Perm Tool & Kit
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Salon Facilities
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Styling Kit
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hook Needle
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Lace cap
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Links, Rings & Tubes
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Mannequin Head Holders & Tripods
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Mustache, Temple & Eyebrow
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Pliers
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Positioning Hair Pins
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Professional Brushes( Salon Use)
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Protectors & Shields Tools
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Bun & Volume Shapers
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Claws
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Combs
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Extensions
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Forks & Sticks
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Hair Wreaths
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Headbands
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Ponytail Holders
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Tiaras
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Wig Accessories
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Wig Accessories > Wig Caps
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Wig Accessories > Wig Glue & Tape
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Wig Accessories > Training Head Kit
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Wig Accessories > Wig Band
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Wig Accessories > Wigs Display Head
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Wig Accessories > Wig Stands
+Apparel & Accessories > Hair & Wigs > Hair Accessories > Wigs
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > 3 Bundles Deal
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > 4 Bundles Deal
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > 4 Bundles With Closure
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > Bangs
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > Chignon
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > Clip-in Full Head
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > Closure
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > Hair Bundles with Closures
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > Hair Weaving
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > Lace Wigs
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > Ponytails
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > Sample Order(For Black)
+Apparel & Accessories > Hair & Wigs > Human Hair (For Black) > Toupees (For Black)
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Bangs
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Extension Kits
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Hair Color Rings
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Hair Pieces
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Human Hair Extensions > Bulk Hair 
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Human Hair Extensions > Clip-in Full Head 
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Human Hair Extensions > Clip-in Hair Extensions 
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Human Hair Extensions > Clip-in One Piece 
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Human Hair Extensions > Hair Weft 
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Human Hair Extensions > Human Fusion Hair 
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Human Hair Extensions > Loop Micro Ring Hair Extensions 
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Human Hair Extensions > Micro Beads Hair Extensions 
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Human Hair Extensions > Skin Weft Hair Extensions 
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Human Hair Extensions > Tape Hair Extensions 
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Jewish Wigs
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Ponytails
+Apparel & Accessories > Hair & Wigs > Human Hair (For White) > Toupee
+Apparel & Accessories > Hair & Wigs > Human Wigs( For Black) > 360 Lace Wigs
+Apparel & Accessories > Hair & Wigs > Human Wigs( For Black) > Closures With Bundles
+Apparel & Accessories > Hair & Wigs > Human Wigs( For Black) > DIY Wigs
+Apparel & Accessories > Hair & Wigs > Human Wigs( For Black) > Full Lace Wigs
+Apparel & Accessories > Hair & Wigs > Human Wigs( For Black) > Full Machine Wigs
+Apparel & Accessories > Hair & Wigs > Human Wigs( For Black) > High Density Lace Wigs
+Apparel & Accessories > Hair & Wigs > Human Wigs( For Black) > Lace Closure & Frontal Wigs
+Apparel & Accessories > Hair & Wigs > Human Wigs( For Black) > Lace Closures & Frontals
+Apparel & Accessories > Hair & Wigs > Human Wigs( For Black) > Part Lace Wigs
+Apparel & Accessories > Hair & Wigs > Human Wigs( For Black) > Silk Base Lace Wigs
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Bangs(For White)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Blend Wigs(For White)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Braiding Hair(For Black)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Braiding Hair(For White)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Bulk Hair(For Black)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Buns(For Black)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Chignon(For White)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Clip-in Extensions(For White)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Clip-in One Piece(For White)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Lace Front Wigs(For White)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Lace Wigs(For Black)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic One Pack(For Black)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Ponytails(For White)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Weaving(For Black)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Wigs(For Black)
+Apparel & Accessories > Hair & Wigs > Synthetic Hair > Synthetic Wigs(For White)
 Apparel & Accessories > Clothing Accessories > Hand Muffs
 Apparel & Accessories > Clothing Accessories > Handkerchiefs
 Apparel & Accessories > Clothing Accessories > Hats
