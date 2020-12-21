@@ -350,35 +350,31 @@ Apparel & Accessories > Fabrics & Textiles > Taffeta Fabrics
 Apparel & Accessories > Fabrics & Textiles > Tulle Fabrics
 Apparel & Accessories > Fabrics & Textiles > Velvet Fabrics
 Apparel & Accessories > Fabrics & Textiles > Wax Fabrics
-Apparel & Accessories > Handbag & Wallet Accessories
-Apparel & Accessories > Handbag & Wallet Accessories > Checkbook Covers
-Apparel & Accessories > Handbag & Wallet Accessories > Keychains
-Apparel & Accessories > Handbag & Wallet Accessories > Lanyards
-Apparel & Accessories > Handbag & Wallet Accessories > Wallet Chains
-Apparel & Accessories > Handbags, Wallets & Cases
-Apparel & Accessories > Handbags, Wallets & Cases > Badge & Pass Holders
-Apparel & Accessories > Handbags, Wallets & Cases > Business Card Cases
-Apparel & Accessories > Handbags, Wallets & Cases > Handbags
-Apparel & Accessories > Handbags, Wallets & Cases > Handbags > Clutches & Special Occasion Bags
-Apparel & Accessories > Handbags, Wallets & Cases > Handbags > Cross-Body Handbags
-Apparel & Accessories > Handbags, Wallets & Cases > Handbags > Hobo Handbags
-Apparel & Accessories > Handbags, Wallets & Cases > Handbags > Satchels
-Apparel & Accessories > Handbags, Wallets & Cases > Handbags > Shoulder Bags
-Apparel & Accessories > Handbags, Wallets & Cases > Handbags > Tote Handbags
-Apparel & Accessories > Handbags, Wallets & Cases > Handbags > Wristlets
-Apparel & Accessories > Handbags, Wallets & Cases > Wallets & Money Clips
 Apparel & Accessories > Jewelry
 Apparel & Accessories > Jewelry > Anklets
+Apparel & Accessories > Jewelry > Bangles
+Apparel & Accessories > Jewelry > Beads
 Apparel & Accessories > Jewelry > Body Jewelry
 Apparel & Accessories > Jewelry > Bracelets
 Apparel & Accessories > Jewelry > Brooches & Lapel Pins
 Apparel & Accessories > Jewelry > Charms & Pendants
 Apparel & Accessories > Jewelry > Earrings
+Apparel & Accessories > Jewelry > Earrings > Clip Earrings 
+Apparel & Accessories > Jewelry > Earrings > Dangle Earrings 
+Apparel & Accessories > Jewelry > Earrings > Earring Jackets 
+Apparel & Accessories > Jewelry > Earrings > Hoop Earrings 
+Apparel & Accessories > Jewelry > Earrings > Stud Earrings
+Apparel & Accessories > Jewelry > Hair Jewelry
+Apparel & Accessories > Jewelry > Jewelry Mask
 Apparel & Accessories > Jewelry > Jewelry Sets
 Apparel & Accessories > Jewelry > Loose Stones
 Apparel & Accessories > Jewelry > Loose Stones > Diamonds
+Apparel & Accessories > Jewelry > Key Chains
 Apparel & Accessories > Jewelry > Necklaces
+Apparel & Accessories > Jewelry > Pendants
 Apparel & Accessories > Jewelry > Rings
+Apparel & Accessories > Jewelry > Silver Bar
+Apparel & Accessories > Jewelry > Tie clips & Cufflinks
 Apparel & Accessories > Jewelry > Watch Accessories
 Apparel & Accessories > Jewelry > Watch Accessories > Watch Bands
 Apparel & Accessories > Jewelry > Watch Accessories > Watch Stickers & Decals
@@ -386,6 +382,11 @@ Apparel & Accessories > Jewelry > Watch Accessories > Watch Winders
 Apparel & Accessories > Jewelry > Watches
 Apparel & Accessories > Jewelry > Watches > Analog Watches
 Apparel & Accessories > Jewelry > Watches > Digital Watches
+Apparel & Accessories > Jewelry > Jewelry Making > Jewelry Findings & Components
+Apparel & Accessories > Jewelry > Jewelry Making > Jewelry Making Kits
+Apparel & Accessories > Jewelry > Jewelry Packaging & Display
+Apparel & Accessories > Jewelry > Jewelry Tools & Equipments
+Apparel & Accessories > Jewelry > Smart Jewelry
 Apparel & Accessories > Shoe Accessories
 Apparel & Accessories > Shoe Accessories > Boot Liners
 Apparel & Accessories > Shoe Accessories > Gaiters
