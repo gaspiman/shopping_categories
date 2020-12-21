@@ -456,6 +456,13 @@ Hardware > Power & Electrical Supplies > Conduit & Housings
 Hardware > Power & Electrical Supplies > Conduit & Housings > Electrical Conduit
 Hardware > Power & Electrical Supplies > Conduit & Housings > Heat-Shrink Tubing
 Hardware > Power & Electrical Supplies > Electrical Motors
+Hardware > Power & Electrical Supplies > Electrical Motors > AC Motor 
+Hardware > Power & Electrical Supplies > Electrical Motors > DC Motor 
+Hardware > Power & Electrical Supplies > Electrical Motors > Electricity Generation 
+Hardware > Power & Electrical Supplies > Electrical Motors > Motor Controller 
+Hardware > Power & Electrical Supplies > Electrical Motors > Motor Driver 
+Hardware > Power & Electrical Supplies > Electrical Motors > Motor Protectors 
+Hardware > Power & Electrical Supplies > Electrical Motors > Stepper Motor 
 Hardware > Power & Electrical Supplies > Electrical Mount Boxes & Brackets
 Hardware > Power & Electrical Supplies > Electrical Plug Caps
 Hardware > Power & Electrical Supplies > Electrical Switches
@@ -466,19 +473,36 @@ Hardware > Power & Electrical Supplies > Extension Cord Accessories
 Hardware > Power & Electrical Supplies > Extension Cords
 Hardware > Power & Electrical Supplies > Generator Accessories
 Hardware > Power & Electrical Supplies > Generators
+Hardware > Power & Electrical Supplies > Generators > Alternative Energy Generators 
+Hardware > Power & Electrical Supplies > Generators > Diesel Generators 
+Hardware > Power & Electrical Supplies > Generators > Gasoline & Petrol Generators 
+Hardware > Power & Electrical Supplies > Generators > Gas Turbine Generators 
+Hardware > Power & Electrical Supplies > Generators > Generator Parts & Accessories 
 Hardware > Power & Electrical Supplies > Home Automation Kits
 Hardware > Power & Electrical Supplies > Phone & Data Jacks
 Hardware > Power & Electrical Supplies > Power Converters
 Hardware > Power & Electrical Supplies > Power Inlets
 Hardware > Power & Electrical Supplies > Power Inverters
 Hardware > Power & Electrical Supplies > Power Outlets & Sockets
-Hardware > Power & Electrical Supplies > Solar Energy Kits
-Hardware > Power & Electrical Supplies > Solar Panels
+Hardware > Power & Electrical Supplies > Solar Power
+Hardware > Power & Electrical Supplies > Solar Power > Solar Battery Chargers & Charging Kits 
+Hardware > Power & Electrical Supplies > Solar Power > Solar Collectors 
+Hardware > Power & Electrical Supplies > Solar Power > Solar Controllers 
+Hardware > Power & Electrical Supplies > Solar Power > Solar Generator 
+Hardware > Power & Electrical Supplies > Solar Power > Solar Inverters 
+Hardware > Power & Electrical Supplies > Solar Power > Solar Panel 
+Hardware > Power & Electrical Supplies > Solar Power > Solar Power Parts & Accessories 
+Hardware > Power & Electrical Supplies > Solar Power > System 
 Hardware > Power & Electrical Supplies > Voltage Transformers & Regulators
 Hardware > Power & Electrical Supplies > Wall Plates & Covers
 Hardware > Power & Electrical Supplies > Wall Socket Controls & Sensors
 Hardware > Power & Electrical Supplies > Wire Caps & Nuts
 Hardware > Power & Electrical Supplies > Wire Terminals & Connectors
+Hardware > Power & Electrical Supplies > Wire Terminals & Connectors > Alligator Clips 
+Hardware > Power & Electrical Supplies > Wire Terminals & Connectors > Connectors 
+Hardware > Power & Electrical Supplies > Wire Terminals & Connectors > Terminal Blocks 
+Hardware > Power & Electrical Supplies > Wire Terminals & Connectors > Terminals 
+Hardware > Power & Electrical Supplies > Wire Terminals & Connectors > Wire Junction Boxes 
 Hardware > Renewable Energy
 Hardware > Renewable Energy > Solar Energy
 Hardware > Renewable Energy > Solar Energy > Solar Energy Kits
