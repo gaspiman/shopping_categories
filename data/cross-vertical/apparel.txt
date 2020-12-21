@@ -73,12 +73,15 @@ Apparel & Accessories > Clothing > Outerwear > Chaps
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Anorak Jackets
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers
+Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Bomber Jackets
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Boleros
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Capes & Ponchos
+Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Capes & Ponchos > Canopies
+Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Capes & Ponchos > Ponchos
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Denim Jackets
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Down & Snow Jackets
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Fleece Jackets
-Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Fur Coats
+Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Fur & Faux Fur Coats
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Leather & Suede Jackets
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Overcoats
 Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trench Coats
@@ -115,15 +118,24 @@ Apparel & Accessories > Clothing > Shorts > Bermuda Shorts
 Apparel & Accessories > Clothing > Shorts > Cargo Shorts
 Apparel & Accessories > Clothing > Shorts > Short Shorts
 Apparel & Accessories > Clothing > Skirts
-Apparel & Accessories > Clothing > Skorts
+Apparel & Accessories > Clothing > Skortsf
 Apparel & Accessories > Clothing > Sleepwear & Loungewear
 Apparel & Accessories > Clothing > Sleepwear & Loungewear > Loungewear
 Apparel & Accessories > Clothing > Sleepwear & Loungewear > Nightgowns
 Apparel & Accessories > Clothing > Sleepwear & Loungewear > Pajamas
+Apparel & Accessories > Clothing > Sleepwear & Loungewear > Pajama Sets
 Apparel & Accessories > Clothing > Sleepwear & Loungewear > Robes
+Apparel & Accessories > Clothing > Sleepwear & Loungewear > Robe & Gown Sets
+Apparel & Accessories > Clothing > Sleepwear & Loungewear > Onesies
+Apparel & Accessories > Clothing > Sleepwear & Loungewear > Sleep Bottoms
+Apparel & Accessories > Clothing > Sleepwear & Loungewear > Sleep Tops
+Apparel & Accessories > Clothing > Sleepwear & Loungewear > Nightgowns & Sleepshirts
+Watches > Children's Watches
 Apparel & Accessories > Clothing > Suits
 Apparel & Accessories > Clothing > Suits > Pant Suits
 Apparel & Accessories > Clothing > Suits > Skirt Suits
+Apparel & Accessories > Clothing > Suits > Dress Suits
+Apparel & Accessories > Clothing > Suits > Short Suits
 Apparel & Accessories > Clothing > Suits > Suit Separates
 Apparel & Accessories > Clothing > Suits > Tuxedos
 Apparel & Accessories > Clothing > Swimwear
@@ -173,6 +185,9 @@ Apparel & Accessories > Clothing > Underwear & Socks > Long Johns
 Apparel & Accessories > Clothing > Underwear & Socks > Petticoats & Pettipants
 Apparel & Accessories > Clothing > Underwear & Socks > Shapewear
 Apparel & Accessories > Clothing > Underwear & Socks > Socks
+Apparel & Accessories > Clothing > Underwear & Socks > Sock Slippers
+Apparel & Accessories > Clothing > Underwear & Socks > Stockings
+Apparel & Accessories > Clothing > Underwear & Socks > Tights
 Apparel & Accessories > Clothing > Underwear & Socks > Undershirts
 Apparel & Accessories > Clothing > Underwear & Socks > Underwear
 Apparel & Accessories > Clothing > Underwear & Socks > Underwear Slips
@@ -253,17 +268,32 @@ Apparel & Accessories > Clothing Accessories > Hats
 Apparel & Accessories > Clothing Accessories > Hats > Beanies
 Apparel & Accessories > Clothing Accessories > Hats > Berets
 Apparel & Accessories > Clothing Accessories > Hats > Bowler & Derby Hats
+Apparel & Accessories > Clothing Accessories > Hats > Bomber Hats
+Apparel & Accessories > Clothing Accessories > Hats > Bucket Hats
 Apparel & Accessories > Clothing Accessories > Hats > Caps
 Apparel & Accessories > Clothing Accessories > Hats > Caps > Baseball Caps
 Apparel & Accessories > Clothing Accessories > Hats > Caps > Newsboy Caps
 Apparel & Accessories > Clothing Accessories > Hats > Cowboys Hats
 Apparel & Accessories > Clothing Accessories > Hats > Fedoras
+Apparel & Accessories > Clothing Accessories > Hats > Hip Hop Caps
+Apparel & Accessories > Clothing Accessories > Hats > Military Hats
+Apparel & Accessories > Clothing Accessories > Hats > Newsboy Caps
+Apparel & Accessories > Clothing Accessories > Hats > Octagonal Hats
+Apparel & Accessories > Clothing Accessories > Hats > Skullies & Beanies
 Apparel & Accessories > Clothing Accessories > Hats > Sun Hats
 Apparel & Accessories > Clothing Accessories > Hats > Visors
 Apparel & Accessories > Clothing Accessories > Headwear
 Apparel & Accessories > Clothing Accessories > Headwear > Fascinators
 Apparel & Accessories > Clothing Accessories > Headwear > Headdresses
 Apparel & Accessories > Clothing Accessories > Headwear > Turbans
+Apparel & Accessories > Clothing Accessories > Headwear > Hair Claw
+Apparel & Accessories > Clothing Accessories > Headwear > Hair Clip
+Apparel & Accessories > Clothing Accessories > Headwear > Hair Grips
+Apparel & Accessories > Clothing Accessories > Headwear > Hair Ties
+Apparel & Accessories > Clothing Accessories > Headwear > Headband
+Apparel & Accessories > Clothing Accessories > Headwear > Other Hair Accessories
+Apparel & Accessories > Clothing Accessories > Headwear > Scrunchie
+Apparel & Accessories > Clothing Accessories > Knee Sleeve
 Apparel & Accessories > Clothing Accessories > Leg Warmers
 Apparel & Accessories > Clothing Accessories > Leis
 Apparel & Accessories > Clothing Accessories > Maternity Belts & Support Bands
@@ -274,6 +304,7 @@ Apparel & Accessories > Clothing Accessories > Neckties > Bolo Ties
 Apparel & Accessories > Clothing Accessories > Neckties > Bow Ties
 Apparel & Accessories > Clothing Accessories > Neckties > Ties
 Apparel & Accessories > Clothing Accessories > Pinback Buttons
+Apparel & Accessories > Clothing Accessories > Pocket Squares
 Apparel & Accessories > Clothing Accessories > Sashes
 Apparel & Accessories > Clothing Accessories > Scarves & Shawls
 Apparel & Accessories > Clothing Accessories > Scarves & Shawls > Scarves
@@ -302,6 +333,23 @@ Apparel & Accessories > Costumes & Accessories > Costume Shoes
 Apparel & Accessories > Costumes & Accessories > Costumes
 Apparel & Accessories > Costumes & Accessories > Masks
 Apparel & Accessories > Costumes & Accessories > Wigs
+Apparel & Accessories > Fabrics & Textiles > Chiffon Fabrics
+Apparel & Accessories > Fabrics & Textiles > Cotton Fabrics
+Apparel & Accessories > Fabrics & Textiles > Denim Fabrics
+Apparel & Accessories > Fabrics & Textiles > Fabric Samples
+Apparel & Accessories > Fabrics & Textiles > Faux Leather Fabrics
+Apparel & Accessories > Fabrics & Textiles > Garment Accessories
+Apparel & Accessories > Fabrics & Textiles > Jersey Fabrics
+Apparel & Accessories > Fabrics & Textiles > Lace Fabrics
+Apparel & Accessories > Fabrics & Textiles > Linen Fabrics
+Apparel & Accessories > Fabrics & Textiles > Organza Fabrics
+Apparel & Accessories > Fabrics & Textiles > Sequin Fabrics
+Apparel & Accessories > Fabrics & Textiles > Silk Fabrics
+Apparel & Accessories > Fabrics & Textiles > Suit Fabrics
+Apparel & Accessories > Fabrics & Textiles > Taffeta Fabrics
+Apparel & Accessories > Fabrics & Textiles > Tulle Fabrics
+Apparel & Accessories > Fabrics & Textiles > Velvet Fabrics
+Apparel & Accessories > Fabrics & Textiles > Wax Fabrics
 Apparel & Accessories > Handbag & Wallet Accessories
 Apparel & Accessories > Handbag & Wallet Accessories > Checkbook Covers
 Apparel & Accessories > Handbag & Wallet Accessories > Keychains
