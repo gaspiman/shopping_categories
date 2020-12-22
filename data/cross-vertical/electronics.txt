@@ -162,8 +162,11 @@ Electronics > Communications > Telephony > Mobile Phone Accessories > Mobile Pho
 Electronics > Communications > Telephony > Mobile Phone Accessories > Mobile Phone Stands
 Electronics > Communications > Telephony > Mobile Phone Accessories > SIM Card Ejection Tools
 Electronics > Communications > Telephony > Mobile Phones
+Electronics > Communications > Telephony > Mobile Phones > Contract Mobile Phones
 Electronics > Communications > Telephony > Mobile Phones > Feature Phones
+Electronics > Communications > Telephony > Mobile Phones > Pre-paid Mobile Phones
 Electronics > Communications > Telephony > Mobile Phones > Smartphones
+Electronics > Communications > Telephony > Mobile Phones > Unlocked Mobile Phones
 Electronics > Communications > Telephony > Mobile Phones > Watch Phones
 Electronics > Communications > Telephony > Satellite Phones
 Electronics > Communications > Telephony > Telephone Accessories
@@ -285,6 +288,8 @@ Electronics > Computers > Laptops > Netbooks
 Electronics > Computers > Smart Glasses
 Electronics > Computers > Tablet Computers
 Electronics > Computers > Thin & Zero Clients
+Electronics > Computers > Thin & Zero Clients > Thin Client Computers
+Electronics > Computers > Thin & Zero Clients > Zero Client Computers
 Electronics > Computers > Touch Table Computers
 Electronics > Electronics Accessories
 Electronics > Electronics Accessories > Adapters
