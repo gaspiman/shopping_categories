@@ -48,16 +48,6 @@ Games > Educational Games
 Games > Family-Oriented Games & Activities
 Games > Family-Oriented Games & Activities > Drawing & Coloring
 Games > Family-Oriented Games & Activities > Dress-Up & Fashion Games
-Games > Poker Chip Accessories
-Games > Poker Chip Accessories > Poker Chip Carriers & Trays
-Games > Poker Chips & Sets
-Games > Portable Electronic Games
-Games > Roulette Wheels & Sets
-Games > Slot Machines
-Games > Stacking Games
-Games > Tile Games
-Games > Tile Games > Dominoes
-Games > Tile Games > Mahjong
 Games > Outdoor Play Equipment
 Games > Outdoor Play Equipment > Bounce Houses
 Games > Outdoor Play Equipment > Inflatable Bouncer Accessories
@@ -82,6 +72,10 @@ Games > Outdoor Play Equipment > Water Play Equipment > Water Parks
 Games > Outdoor Play Equipment > Water Play Equipment > Water Parks & Slides
 Games > Outdoor Play Equipment > Water Play Equipment > Water Tables
 Games > Party Games
+Games > Poker Chip Accessories
+Games > Poker Chip Accessories > Poker Chip Carriers & Trays
+Games > Poker Chips & Sets
+Games > Portable Electronic Games
 Games > Puzzles & Brainteasers
 Games > Puzzles & Brainteasers > Brainteasers
 Games > Puzzles & Brainteasers > Puzzles
@@ -93,8 +87,14 @@ Games > Puzzles & Brainteasers > Puzzles > Mechanical Puzzles > Dexterity Puzzle
 Games > Puzzles & Brainteasers > Puzzles > Mechanical Puzzles > Tavern Puzzles
 Games > Puzzles & Brainteasers > Puzzles > Wooden & Pegged Puzzles
 Games > Roleplaying Games
+Games > Roulette Wheels & Sets
+Games > Slot Machines
+Games > Stacking Games
 Games > Table Games
 Games > Table Games > Billiards
 Games > Table Games > Table Tennis
 Games > Tile Games
+Games > Tile Games
+Games > Tile Games > Dominoes
+Games > Tile Games > Mahjong
 Games > Word Games

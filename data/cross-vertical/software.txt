@@ -1,3 +1,8 @@
+Computers > Programming > C & C++
+Computers > Programming > Development Tools
+Computers > Programming > Java (Programming Language)
+Computers > Programming > Scripting Languages
+Computers > Programming > Windows & .NET
 Software
 Software > Computer Software
 Software > Computer Software > Antivirus & Security Software
@@ -16,9 +21,9 @@ Software > Computer Software > Device Drivers
 Software > Computer Software > Dictionary & Translation Software
 Software > Computer Software > Educational Software
 Software > Computer Software > Financial, Tax & Accounting Software
+Software > Computer Software > Freeware & Shareware
 Software > Computer Software > GPS Map Data & Software
 Software > Computer Software > Handheld & PDA Software
-Software > Computer Software > Freeware & Shareware
 Software > Computer Software > Intelligent Personal Assistants
 Software > Computer Software > Internet Software
 Software > Computer Software > Internet Software > Content Management
@@ -64,11 +69,6 @@ Software > Digital Goods & Currency > Document Templates
 Software > Digital Goods & Currency > Fonts
 Software > Digital Goods & Currency > Stock Photographs & Video Footage
 Software > Digital Goods & Currency > Virtual Currency
-Computers > Programming > C & C++
-Computers > Programming > Development Tools
-Computers > Programming > Java (Programming Language)
-Computers > Programming > Scripting Languages
-Computers > Programming > Windows & .NET
 Software > Video Game Software
 Software > Video Game Software > All Game Boy Games
 Software > Video Game Software > All Game Boy Games > Game Boy Advance Games

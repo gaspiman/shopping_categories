@@ -11,9 +11,17 @@ lines = []
 
 for path in onlyfiles:
     print(path)
+    file_lines = []
     with open(path) as f:
         for line in f.read().splitlines():
-            lines.append(line.strip())
+            file_lines.append(line.strip())
+    f.close()
+    with open(path, 'w') as f:
+        file_lines.sort()
+        for file_line in file_lines:
+            f.write(file_line+"\n")
+    f.close()
+    lines.extend(file_lines)
 
 lines.sort()
 

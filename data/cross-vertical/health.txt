@@ -38,6 +38,26 @@ Health > Biometric Monitors > Pedometers
 Health > Biometric Monitors > Prenatal Heart Monitors
 Health > Biometric Monitors > Prenatal Heart Rate Monitors
 Health > Biometric Monitors > Pulse Oximeters
+Health > Compression Legwear
+Health > Condoms
+Health > Conductivity Gels & Lotions
+Health > Contraceptive Cases
+Health > Contraceptives
+Health > Contraceptives > Condoms
+Health > Diabetes Care
+Health > Drug Tests
+Health > First Aid
+Health > First Aid > Antiseptics & Cleaning Supplies
+Health > First Aid > Cast & Bandage Protectors
+Health > First Aid > Eye Wash Supplies
+Health > First Aid > First Aid Kits
+Health > First Aid > Heat Rubs
+Health > First Aid > Hot & Cold Therapies
+Health > First Aid > Hot & Cold Therapies > Heat Rubs
+Health > First Aid > Hot & Cold Therapies > Heating Pads
+Health > First Aid > Hot & Cold Therapies > Ice Packs
+Health > First Aid > Medical Tape & Bandages
+Health > First Aid > Rash & Anti-Itch Treatments
 Health > Health Conditions
 Health > Health Conditions > AIDS & HIV
 Health > Health Conditions > Allergies
@@ -68,33 +88,12 @@ Health > Health Conditions > Respiratory Conditions
 Health > Health Conditions > Respiratory Conditions > Asthma
 Health > Health Conditions > Skin Conditions
 Health > Health Conditions > Sleep Disorders
-Health > Compression Legwear
-Health > Condoms
-Health > Conductivity Gels & Lotions
-Health > Contraceptive Cases
-Health > Contraceptives
-Health > Contraceptives > Condoms
-Health > Diabetes Care
-Health > Drug Tests
-Health > First Aid
-Health > First Aid > Antiseptics & Cleaning Supplies
-Health > First Aid > Cast & Bandage Protectors
-Health > First Aid > Eye Wash Supplies
-Health > First Aid > First Aid Kits
-Health > First Aid > Heat Rubs
-Health > First Aid > Hot & Cold Therapies
-Health > First Aid > Hot & Cold Therapies > Heat Rubs
-Health > First Aid > Hot & Cold Therapies > Heating Pads
-Health > First Aid > Hot & Cold Therapies > Ice Packs
-Health > First Aid > Medical Tape & Bandages
-Health > First Aid > Rash & Anti-Itch Treatments
 Health > Health Education & Medical Training
 Health > Health Foundations & Medical Research
 Health > Hearing Aids
 Health > Incontinence Aids
 Health > Light Therapy Lamps
 Health > Medical Alarm Systems
-Health > Medical Identification Tags & Jewelry
 Health > Medical Facilities & Services
 Health > Medical Facilities & Services > Doctors' Offices
 Health > Medical Facilities & Services > Hospitals & Treatment Centers
@@ -103,6 +102,7 @@ Health > Medical Facilities & Services > Medical Procedures > Medical Tests & Ex
 Health > Medical Facilities & Services > Medical Procedures > Surgery
 Health > Medical Facilities & Services > Medical Procedures > Surgery > Cosmetic Surgery
 Health > Medical Facilities & Services > Physical Therapy
+Health > Medical Identification Tags & Jewelry
 Health > Medical Literature & Resources
 Health > Medical Literature & Resources > Medical Photos & Illustration
 Health > Medical Tests
@@ -161,25 +161,13 @@ Health > Nutrition > Vitamins & Supplements
 Health > Occupational & Physical Therapy Equipment
 Health > Occupational & Physical Therapy Equipment > Electrical Muscle Stimulators
 Health > Occupational & Physical Therapy Equipment > Therapeutic Swings
-Health > Physical Therapy Equipment
-Health > Physical Therapy Equipment > Hand Exercisers
-Health > Pillboxes
-Health > Respiratory Care
-Health > Respiratory Care > Nebulizers
-Health > Respiratory Care > Oxygen Tanks
-Health > Respiratory Care > PAP Machines
-Health > Respiratory Care > PAP Masks
-Health > Respiratory Care > Steam Inhalers
-Health > Smoking Cessation
-Health > Specimen Cups
-Health > Spermicides
-Health > Stump Shrinkers
-Health > Supports & Braces
-Health > Surgical Lubricants
 Health > Oral & Dental Care
 Health > Pediatrics
 Health > Pharmacy
 Health > Pharmacy > Drugs & Medications
+Health > Physical Therapy Equipment
+Health > Physical Therapy Equipment > Hand Exercisers
+Health > Pillboxes
 Health > Public Health
 Health > Public Health > Health Policy
 Health > Public Health > Occupational Health & Safety
@@ -192,11 +180,23 @@ Health > Reproductive Health > OBGYN
 Health > Reproductive Health > Sex Education & Counseling
 Health > Reproductive Health > Sexual Enhancement
 Health > Reproductive Health > Sexually Transmitted Diseases
+Health > Respiratory Care
+Health > Respiratory Care > Nebulizers
+Health > Respiratory Care > Oxygen Tanks
+Health > Respiratory Care > PAP Machines
+Health > Respiratory Care > PAP Masks
+Health > Respiratory Care > Steam Inhalers
+Health > Smoking Cessation
+Health > Specimen Cups
+Health > Spermicides
+Health > Stump Shrinkers
 Health > Substance Abuse
 Health > Substance Abuse > Drug & Alcohol Testing
 Health > Substance Abuse > Drug & Alcohol Treatment
 Health > Substance Abuse > Smoking & Smoking Cessation
 Health > Substance Abuse > Steroids & Performance-Enhancing Drugs
+Health > Supports & Braces
+Health > Surgical Lubricants
 Health > Vision Care
 Health > Vision Care > Eye Exams & Optometry
 Health > Vision Care > Eyeglasses & Contacts

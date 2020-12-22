@@ -81,6 +81,16 @@ Food, Beverages & Tobacco > Beverages > Wine > Sangria
 Food, Beverages & Tobacco > Beverages > Wine > Sparkling Wine
 Food, Beverages & Tobacco > Beverages > Wine > White Wine
 Food, Beverages & Tobacco > Food
+Food, Beverages & Tobacco > Food & Grocery Delivery
+Food, Beverages & Tobacco > Food & Grocery Delivery > Grocery Delivery Services
+Food, Beverages & Tobacco > Food & Grocery Delivery > Meal Kits
+Food, Beverages & Tobacco > Food & Grocery Delivery > Restaurant Delivery Services
+Food, Beverages & Tobacco > Food & Grocery Retailers
+Food, Beverages & Tobacco > Food & Grocery Retailers > Bakeries
+Food, Beverages & Tobacco > Food & Grocery Retailers > Butchers
+Food, Beverages & Tobacco > Food & Grocery Retailers > Convenience Stores
+Food, Beverages & Tobacco > Food & Grocery Retailers > Delicatessens
+Food, Beverages & Tobacco > Food & Grocery Retailers > Farmers' Markets
 Food, Beverages & Tobacco > Food > Bakery
 Food, Beverages & Tobacco > Food > Bakery > Bagels
 Food, Beverages & Tobacco > Food > Bakery > Bakery Assortments
@@ -611,16 +621,6 @@ Food, Beverages & Tobacco > Food > Tofu, Soy & Vegetarian Products > Meat Altern
 Food, Beverages & Tobacco > Food > Tofu, Soy & Vegetarian Products > Seitan
 Food, Beverages & Tobacco > Food > Tofu, Soy & Vegetarian Products > Tempeh
 Food, Beverages & Tobacco > Food > Tofu, Soy & Vegetarian Products > Tofu
-Food, Beverages & Tobacco > Food & Grocery Delivery
-Food, Beverages & Tobacco > Food & Grocery Delivery > Grocery Delivery Services
-Food, Beverages & Tobacco > Food & Grocery Delivery > Meal Kits
-Food, Beverages & Tobacco > Food & Grocery Delivery > Restaurant Delivery Services
-Food, Beverages & Tobacco > Food & Grocery Retailers
-Food, Beverages & Tobacco > Food & Grocery Retailers > Bakeries
-Food, Beverages & Tobacco > Food & Grocery Retailers > Butchers
-Food, Beverages & Tobacco > Food & Grocery Retailers > Convenience Stores
-Food, Beverages & Tobacco > Food & Grocery Retailers > Delicatessens
-Food, Beverages & Tobacco > Food & Grocery Retailers > Farmers' Markets
 Food, Beverages & Tobacco > Restaurants
 Food, Beverages & Tobacco > Restaurants > Catering
 Food, Beverages & Tobacco > Restaurants > Fast Food

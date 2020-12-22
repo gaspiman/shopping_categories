@@ -2,7 +2,6 @@ Media
 Media > Books
 Media > Books > Audiobooks
 Media > Books > E-books
-Media > Books > Print Books
 Media > Books > Fiction
 Media > Books > Fiction > Children's Books
 Media > Books > Fiction > Comics
@@ -11,8 +10,8 @@ Media > Books > Fiction > Literature
 Media > Books > Fiction > Mystery Novels
 Media > Books > Fiction > Romance Novels
 Media > Books > Fiction > Science Fiction & Fantasy Novels
-Media > Books > Fiction > Science Fiction & Fantasy Novels > Science Fiction
 Media > Books > Fiction > Science Fiction & Fantasy Novels > Fantasy Novels
+Media > Books > Fiction > Science Fiction & Fantasy Novels > Science Fiction
 Media > Books > Non-Fiction
 Media > Books > Non-Fiction > Animal & Nature Books
 Media > Books > Non-Fiction > Architecture Books
@@ -60,6 +59,7 @@ Media > Books > Non-Fiction > Technology Books
 Media > Books > Non-Fiction > Transportation Books
 Media > Books > Non-Fiction > Travel Books
 Media > Books > Non-Fiction > True Crime Books
+Media > Books > Print Books
 Media > Carpentry & Woodworking Project Plans
 Media > DVDs & Videos
 Media > DVDs & Videos > Film & Television DVDs

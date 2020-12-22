@@ -1,6 +1,7 @@
 Business & Industrial
 Business & Industrial > Advertising & Marketing
 Business & Industrial > Advertising & Marketing > Brand Management
+Business & Industrial > Advertising & Marketing > Brochures
 Business & Industrial > Advertising & Marketing > Marketing
 Business & Industrial > Advertising & Marketing > Marketing > Direct Mail Marketing
 Business & Industrial > Advertising & Marketing > Marketing > Email Marketing
@@ -8,7 +9,6 @@ Business & Industrial > Advertising & Marketing > Promotional Products & Corpora
 Business & Industrial > Advertising & Marketing > Public Relations
 Business & Industrial > Advertising & Marketing > Sales
 Business & Industrial > Advertising & Marketing > Telemarketing
-Business & Industrial > Advertising & Marketing > Brochures
 Business & Industrial > Advertising & Marketing > Trade Show Counters
 Business & Industrial > Advertising & Marketing > Trade Show Displays
 Business & Industrial > Aerospace & Defense
@@ -17,13 +17,6 @@ Business & Industrial > Aerospace & Defense > Defense Industry
 Business & Industrial > Aerospace & Defense > Space Technology
 Business & Industrial > Agriculture & Forestry
 Business & Industrial > Agriculture & Forestry > Agricultural Equipment
-Business & Industrial > Agriculture & Forestry > Aquaculture
-Business & Industrial > Agriculture & Forestry > Crops & Seed
-Business & Industrial > Agriculture & Forestry > Farms & Ranches
-Business & Industrial > Agriculture & Forestry > Food Production
-Business & Industrial > Agriculture & Forestry > Forestry
-Business & Industrial > Agriculture & Forestry > Horticulture
-Business & Industrial > Agriculture & Forestry > Livestock
 Business & Industrial > Agriculture & Forestry > Animal Husbandry
 Business & Industrial > Agriculture & Forestry > Animal Husbandry > Chicken Coops
 Business & Industrial > Agriculture & Forestry > Animal Husbandry > Egg Incubators
@@ -31,6 +24,13 @@ Business & Industrial > Agriculture & Forestry > Animal Husbandry > Livestock Fe
 Business & Industrial > Agriculture & Forestry > Animal Husbandry > Livestock Feeders
 Business & Industrial > Agriculture & Forestry > Animal Husbandry > Livestock Feeders & Waterers
 Business & Industrial > Agriculture & Forestry > Animal Husbandry > Livestock Halters
+Business & Industrial > Agriculture & Forestry > Aquaculture
+Business & Industrial > Agriculture & Forestry > Crops & Seed
+Business & Industrial > Agriculture & Forestry > Farms & Ranches
+Business & Industrial > Agriculture & Forestry > Food Production
+Business & Industrial > Agriculture & Forestry > Forestry
+Business & Industrial > Agriculture & Forestry > Horticulture
+Business & Industrial > Agriculture & Forestry > Livestock
 Business & Industrial > Automation Control Components
 Business & Industrial > Automation Control Components > Programmable Logic Controllers
 Business & Industrial > Automation Control Components > Variable Frequency & Adjustable Speed Drives
@@ -83,9 +83,9 @@ Business & Industrial > Construction & Maintenance > Building Materials & Suppli
 Business & Industrial > Construction & Maintenance > Building Materials & Supplies > Wood & Plastics
 Business & Industrial > Construction & Maintenance > Civil Engineering
 Business & Industrial > Construction & Maintenance > Construction Consulting & Contracting
-Business & Industrial > Construction & Maintenance > Urban & Regional Planning
 Business & Industrial > Construction & Maintenance > Surveying
 Business & Industrial > Construction & Maintenance > Traffic Cones & Barrels
+Business & Industrial > Construction & Maintenance > Urban & Regional Planning
 Business & Industrial > Dentistry
 Business & Industrial > Dentistry > Dental Cement
 Business & Industrial > Dentistry > Dental Tools
@@ -229,6 +229,7 @@ Business & Industrial > Medical > Surgical Gowns
 Business & Industrial > Metals & Mining
 Business & Industrial > Metals & Mining > Precious Metals
 Business & Industrial > Mining & Quarrying
+Business & Industrial > Pharmaceuticals & Biotech
 Business & Industrial > Piercing & Tattooing
 Business & Industrial > Piercing & Tattooing > Piercing Supplies
 Business & Industrial > Piercing & Tattooing > Piercing Supplies > Piercing Needles
@@ -237,7 +238,6 @@ Business & Industrial > Piercing & Tattooing > Tattooing Supplies > Tattoo Cover
 Business & Industrial > Piercing & Tattooing > Tattooing Supplies > Tattooing Inks
 Business & Industrial > Piercing & Tattooing > Tattooing Supplies > Tattooing Machines
 Business & Industrial > Piercing & Tattooing > Tattooing Supplies > Tattooing Needles
-Business & Industrial > Pharmaceuticals & Biotech
 Business & Industrial > Printing & Publishing
 Business & Industrial > Printing & Publishing > Document & Printing Services
 Business & Industrial > Printing & Publishing > Document & Printing Services > Business Cards & Stationery

@@ -1,4 +1,6 @@
 Beauty
+Beauty > Back Care
+Beauty > Back Care > Back & Lumbar Support Cushions
 Beauty > Beauty Pageants
 Beauty > Beauty Services & Spas
 Beauty > Beauty Services & Spas > Cosmetic Procedures
@@ -6,17 +8,6 @@ Beauty > Beauty Services & Spas > Cosmetic Procedures > Cosmetic Dentistry
 Beauty > Beauty Services & Spas > Manicures & Pedicures
 Beauty > Beauty Services & Spas > Massage Therapy
 Beauty > Body Art
-Beauty > Cosmetology & Beauty Professionals
-Beauty > Jewelry Cleaning & Care
-Beauty > Jewelry Cleaning & Care > Jewelry Cleaners
-Beauty > Jewelry Cleaning & Care > Jewelry Cleaning Solutions & Polishes
-Beauty > Jewelry Cleaning & Care > Jewelry Cleaning Tools
-Beauty > Jewelry Cleaning & Care > Jewelry Holders
-Beauty > Jewelry Cleaning & Care > Jewelry Steam Cleaners
-Beauty > Jewelry Cleaning & Care > Watch Repair Kits
-Beauty > Personal Care
-Beauty > Back Care
-Beauty > Back Care > Back & Lumbar Support Cushions
 Beauty > Cosmetics
 Beauty > Cosmetics > Bath & Body
 Beauty > Cosmetics > Bath & Body > Adult Hygienic Wipes
@@ -50,28 +41,28 @@ Beauty > Cosmetics > Cosmetic Tools > Makeup Tools > Makeup Brushes
 Beauty > Cosmetics > Cosmetic Tools > Makeup Tools > Makeup Sponges
 Beauty > Cosmetics > Cosmetic Tools > Makeup Tools > Refillable Makeup Palettes & Cases
 Beauty > Cosmetics > Cosmetic Tools > Nail Tools
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Buffers 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Callus Shavers 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Callus Stones 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Clippers & Trimmers 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Cuticle Pushers 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Cuticle Scissors 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Dotting Tools 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Electric Manicure Drill 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Foot Rasps 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Hand Rests 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Multifunctional Nail Remover 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Art Equipment 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Brushes 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Drill Accessories & Bits 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Dryers 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Files 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Form 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Glue 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Magnetic Stick 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Tools Sterilizer 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Painting Tools 
-Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Toe Separators 
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Buffers
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Callus Shavers
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Callus Stones
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Clippers & Trimmers
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Cuticle Pushers
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Cuticle Scissors
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Dotting Tools
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Electric Manicure Drill
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Foot Rasps
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Hand Rests
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Multifunctional Nail Remover
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Art Equipment
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Brushes
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Drill Accessories & Bits
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Dryers
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Files
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Form
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Glue
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Magnetic Stick
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Nail Tools Sterilizer
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Painting Tools
+Beauty > Cosmetics > Cosmetic Tools > Nail Tools > Toe Separators
 Beauty > Cosmetics > Cosmetic Tools > Skin Care Tools
 Beauty > Cosmetics > Cosmetic Tools > Skin Care Tools > Facial Saunas
 Beauty > Cosmetics > Cosmetic Tools > Skin Care Tools > Foot Files
@@ -117,13 +108,13 @@ Beauty > Cosmetics > Nail Care
 Beauty > Cosmetics > Nail Care > Cuticle Cream & Oil
 Beauty > Cosmetics > Nail Care > False Nails
 Beauty > Cosmetics > Nail Care > Manicure Glue
+Beauty > Cosmetics > Nail Care > Nail Art
 Beauty > Cosmetics > Nail Care > Nail Art Kits & Accessories
 Beauty > Cosmetics > Nail Care > Nail Glue
 Beauty > Cosmetics > Nail Care > Nail Polish Drying Drops & Sprays
 Beauty > Cosmetics > Nail Care > Nail Polish Removers
 Beauty > Cosmetics > Nail Care > Nail Polish Thinners
 Beauty > Cosmetics > Nail Care > Nail Polishes
-Beauty > Cosmetics > Nail Care > Nail Art
 Beauty > Cosmetics > Perfume & Cologne
 Beauty > Cosmetics > Skin Care
 Beauty > Cosmetics > Skin Care > Acne Treatments & Kits
@@ -155,6 +146,7 @@ Beauty > Cosmetics > Skin Care > Toners & Astringents
 Beauty > Cosmetics > Skin Care > Toners & Astringents > Astringents
 Beauty > Cosmetics > Skin Care > Toners & Astringents > Toners
 Beauty > Cosmetics > Skin Care > Wart Removers
+Beauty > Cosmetology & Beauty Professionals
 Beauty > Cotton Balls
 Beauty > Cotton Swabs
 Beauty > Deodorant & Anti-Perspirant
@@ -212,6 +204,13 @@ Beauty > Hair Care > Shampoo & Conditioner
 Beauty > Hair Care > Shampoo & Conditioner > Conditioners
 Beauty > Hair Care > Shampoo & Conditioner > Shampoo
 Beauty > Hair Care > Shampoo & Conditioner > Shampoo & Conditioner Sets
+Beauty > Jewelry Cleaning & Care
+Beauty > Jewelry Cleaning & Care > Jewelry Cleaners
+Beauty > Jewelry Cleaning & Care > Jewelry Cleaning Solutions & Polishes
+Beauty > Jewelry Cleaning & Care > Jewelry Cleaning Tools
+Beauty > Jewelry Cleaning & Care > Jewelry Holders
+Beauty > Jewelry Cleaning & Care > Jewelry Steam Cleaners
+Beauty > Jewelry Cleaning & Care > Watch Repair Kits
 Beauty > Massage & Relaxation
 Beauty > Massage & Relaxation > Back Scratchers
 Beauty > Massage & Relaxation > Eye Pillows
@@ -251,6 +250,7 @@ Beauty > Oral Care > Toothbrushes
 Beauty > Oral Care > Toothpaste
 Beauty > Oral Care > Toothpaste Squeezers & Dispensers
 Beauty > Oral Care > Toothpicks
+Beauty > Personal Care
 Beauty > Personal Lubricants
 Beauty > Shaving & Grooming
 Beauty > Shaving & Grooming > Aftershave

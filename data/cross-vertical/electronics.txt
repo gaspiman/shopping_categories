@@ -269,6 +269,9 @@ Electronics > Computers > Computer Components > Storage Devices > Storage Drive 
 Electronics > Computers > Computer Components > Storage Devices > Tape Drives
 Electronics > Computers > Computer Components > Storage Devices > USB Flash Drives
 Electronics > Computers > Computer Components > USB & FireWire Hubs
+Electronics > Computers > Computer Security
+Electronics > Computers > Computer Security > Antivirus & Malware
+Electronics > Computers > Computer Security > Network Security
 Electronics > Computers > Computer Servers
 Electronics > Computers > Desktop Computers
 Electronics > Computers > Handheld Devices
@@ -280,9 +283,6 @@ Electronics > Computers > Interactive Kiosks
 Electronics > Computers > Laptops
 Electronics > Computers > Laptops > Netbooks
 Electronics > Computers > Smart Glasses
-Electronics > Computers > Computer Security
-Electronics > Computers > Computer Security > Antivirus & Malware
-Electronics > Computers > Computer Security > Network Security
 Electronics > Computers > Tablet Computers
 Electronics > Computers > Thin & Zero Clients
 Electronics > Computers > Touch Table Computers
@@ -538,21 +538,21 @@ Electronics > Networking > Bridges & Routers > VoIP Gateways & Routers
 Electronics > Networking > Bridges & Routers > Wireless Access Points
 Electronics > Networking > Bridges & Routers > Wireless Routers
 Electronics > Networking > Concentrators & Multiplexers
+Electronics > Networking > Data Formats & Protocols
+Electronics > Networking > Distributed & Cloud Computing
 Electronics > Networking > Hubs & Switches
 Electronics > Networking > Modem Accessories
 Electronics > Networking > Modems
 Electronics > Networking > Network Cards
 Electronics > Networking > Network Cards & Adapters
 Electronics > Networking > Network Cards > XBox 360 Network Cards
+Electronics > Networking > Network Monitoring & Management
 Electronics > Networking > Network Security & Firewall Devices
 Electronics > Networking > Power Line Network Adapters
 Electronics > Networking > Power Over Ethernet Adapters
 Electronics > Networking > Print Servers
 Electronics > Networking > Repeaters & Transceivers
 Electronics > Networking > VPN & Remote Access
-Electronics > Networking > Network Monitoring & Management
-Electronics > Networking > Distributed & Cloud Computing
-Electronics > Networking > Data Formats & Protocols
 Electronics > Plug & Play TV Games
 Electronics > Print, Copy, Scan & Fax
 Electronics > Print, Copy, Scan & Fax > 3D Printer Accessories
@@ -610,12 +610,12 @@ Electronics > Video > Satellite & Cable TV
 Electronics > Video > Satellite & Cable TV > Cable TV Receivers
 Electronics > Video > Satellite & Cable TV > Satellite Receivers
 Electronics > Video > Televisions
-Electronics > Video > Televisions > CRT Televisions
-Electronics > Video > Televisions > HD Televisions
 Electronics > Video > Televisions > 4K Televisions
 Electronics > Video > Televisions > 8K Televisions
+Electronics > Video > Televisions > CRT Televisions
 Electronics > Video > Televisions > Flat Panel Televisions
 Electronics > Video > Televisions > Flat Panel Televisions > LCD Televisions
+Electronics > Video > Televisions > HD Televisions
 Electronics > Video > Televisions > Plasma Televisions
 Electronics > Video > Televisions > Portable Televisions
 Electronics > Video > Televisions > Projection Televisions

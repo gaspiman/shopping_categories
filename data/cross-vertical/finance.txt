@@ -15,6 +15,7 @@ Finance > Credit & Lending > Credit Reporting & Monitoring
 Finance > Credit & Lending > Debt Collection & Repossession
 Finance > Credit & Lending > Debt Management
 Finance > Credit & Lending > Loans
+Finance > Credit & Lending > Loans > Commercial Lending
 Finance > Credit & Lending > Loans > Home Financing
 Finance > Credit & Lending > Loans > Home Financing > Home Equity Loans & Lines of Credit
 Finance > Credit & Lending > Loans > Home Financing > Home Refinancing
@@ -25,7 +26,6 @@ Finance > Credit & Lending > Loans > Student Loans & College Financing
 Finance > Credit & Lending > Loans > Vehicle Financing
 Finance > Credit & Lending > Loans > Vehicle Financing > Auto Financing
 Finance > Credit & Lending > Loans > Vehicle Financing > Auto Financing > Auto Leasing
-Finance > Credit & Lending > Loans > Commercial Lending
 Finance > Financial Planning & Management
 Finance > Financial Planning & Management > Asset & Portfolio Management
 Finance > Financial Planning & Management > Inheritance & Estate Planning

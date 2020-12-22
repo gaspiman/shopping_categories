@@ -1,6 +1,8 @@
 Pets & Animals
-Pets & Animals > Services
 Pets & Animals > Animal Products & Services > Animal Welfare
+Pets & Animals > Animal Products & Services > GPS Trackers
+Pets & Animals > Animal Products & Services > Insect Supplies > Boxes
+Pets & Animals > Animal Products & Services > Pet Care Room
 Pets & Animals > Animal Products & Services > Pet Food & Supplies
 Pets & Animals > Animal Products & Services > Pet Food & Supplies > Bird Supplies
 Pets & Animals > Animal Products & Services > Pet Food & Supplies > Bird Supplies > Bird Cage Accessories
@@ -136,6 +138,31 @@ Pets & Animals > Animal Products & Services > Pet Food & Supplies > Small Animal
 Pets & Animals > Animal Products & Services > Pet Food & Supplies > Small Animal Supplies > Small Animal Habitats & Cages
 Pets & Animals > Animal Products & Services > Pet Food & Supplies > Small Animal Supplies > Small Animal Treats
 Pets & Animals > Animal Products & Services > Pet Food & Supplies > Vehicle Pet Barriers
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Cleaning Wipes
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Deodorizers
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Dewormers
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Ear Cleaner
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Eye Drops & Lubricants
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet First Aid & Emergency Kits
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Flea Treatment
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Medical Collars
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Medical Tape & Bandages
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Medicine
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Oral Care
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Oral Care > Pet Breath Spray
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Oral Care > Pet Toothpaste
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Paw Care
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Skin Care
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Towels
+Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Vitamins & Supplements
+Pets & Animals > Animal Products & Services > Pet Medical Supplies > Pet Bandages
+Pets & Animals > Animal Products & Services > Pet Medical Supplies > Pet Medical Cotton Balls
+Pets & Animals > Animal Products & Services > Pet Medical Supplies > Pet Surgical Instruments
+Pets & Animals > Animal Products & Services > Pet Medical Supplies > Pet Test Strips
+Pets & Animals > Animal Products & Services > Pet Medical Supplies > Pet Thermometers
+Pets & Animals > Animal Products & Services > Pet Memorials > Pet Caskets & Urns
+Pets & Animals > Animal Products & Services > Pet Memorials > Pet Gravestones
+Pets & Animals > Animal Products & Services > Pet Microchips
 Pets & Animals > Animal Products & Services > Veterinarians
 Pets & Animals > Live Animals
 Pets & Animals > Pets
@@ -147,32 +174,5 @@ Pets & Animals > Pets > Fish & Aquaria
 Pets & Animals > Pets > Horses
 Pets & Animals > Pets > Rabbits & Rodents
 Pets & Animals > Pets > Reptiles & Amphibians
+Pets & Animals > Services
 Pets & Animals > Wildlife
-Pets & Animals > Animal Products & Services > GPS Trackers
-Pets & Animals > Animal Products & Services > Insect Supplies > Boxes 
-Pets & Animals > Animal Products & Services > Pet Care Room
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Oral Care
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Oral Care > Pet Breath Spray
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Oral Care > Pet Toothpaste
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Deodorizers 
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Cleaning Wipes 
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Dewormers 
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Ear Cleaner 
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Eye Drops & Lubricants
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Flea Treatment 
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Paw Care 
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Skin Care 
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Towels
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet First Aid & Emergency Kits
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Medical Collars
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Medical Tape & Bandages
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Medicine
-Pets & Animals > Animal Products & Services > Pet Health Care & Hygiene > Pet Vitamins & Supplements
-Pets & Animals > Animal Products & Services > Pet Medical Supplies > Pet Bandages 
-Pets & Animals > Animal Products & Services > Pet Medical Supplies > Pet Medical Cotton Balls 
-Pets & Animals > Animal Products & Services > Pet Medical Supplies > Pet Surgical Instruments 
-Pets & Animals > Animal Products & Services > Pet Medical Supplies > Pet Test Strips 
-Pets & Animals > Animal Products & Services > Pet Medical Supplies > Pet Thermometers 
-Pets & Animals > Animal Products & Services > Pet Memorials > Pet Caskets & Urns 
-Pets & Animals > Animal Products & Services > Pet Memorials > Pet Gravestones 
-Pets & Animals > Animal Products & Services > Pet Microchips
