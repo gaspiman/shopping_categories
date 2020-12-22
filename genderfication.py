@@ -1,10 +1,10 @@
 import os
 """
-with open("./data/cross-vertical/luggage.txt") as f:
+with open("./data/cross_vertical/luggage.txt") as f:
     lines = f.readlines()
 """
 
-with open("./data/cross-vertical/apparel.txt") as f:
+with open("./data/cross_vertical/apparel.txt") as f:
     lines = f.readlines()
 
 cases = [
@@ -49,5 +49,5 @@ for line in lines:
         new_lines.append("{} > {} {}\n".format(line, case, parts[-1]))
 print("<<<", new_lines, ">>>>")
 
-with open("./data/cross-vertical/apparel.txt", 'w') as f:
+with open("./data/cross_vertical/apparel.txt", 'w') as f:
     f.writelines(new_lines)

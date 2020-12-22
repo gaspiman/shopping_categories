@@ -1,11 +1,11 @@
 import os
 from Levenshtein import distance
 
-paths = ["./data/aliexpress.txt", "./data/bing_shopping.txt"]
+paths = ["./data/aliexpress.txt", "./data/others/bing_shopping.txt"]
 output = "./data/a_to_b.txt"
 
 """
-paths = ["./data/aliexpress.txt", "./data/google_shopping.txt"]
+paths = ["./data/aliexpress.txt", "./data/others/google_shopping.txt"]
 output = "./data/a_to_g.txt"
 """
 

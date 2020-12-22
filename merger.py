@@ -1,7 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 
-input_path = "./data/cross-vertical"
+input_path = "./data/cross_vertical"
 output_file = "./data/cross_vertical.txt"
 
 onlyfiles = [join(input_path, f)
