@@ -1,6 +1,10 @@
 import os
-
+"""
 with open("./data/cross-vertical/luggage.txt") as f:
+    lines = f.readlines()
+"""
+
+with open("./data/cross-vertical/apparel.txt") as f:
     lines = f.readlines()
 
 cases = [
@@ -9,8 +13,9 @@ cases = [
 ]
 
 matches = {
-    "Apparel & Accessories > Jewelry > Watches > ": cases[0],
-    "Apparel & Accessories > Clothing >": cases[0],
+    "Apparel & Accessories > Jewelry > Watches": cases[0],
+    "Apparel & Accessories > Clothing": cases[0],
+    "Apparel & Accessories > Shoes": cases[0],
     "Luggage & Bags >": cases[1],
 }
 
@@ -21,8 +26,11 @@ excludes = [
 
 ]
 
+new_lines = []
+
 for line in lines:
     line = line.strip()
+    new_lines.append(line+"\n")
     parts = line.split(" > ")
     found = None
     for m in matches:
@@ -37,6 +45,9 @@ for line in lines:
             break
     if found is None:
         continue
-    print(line)
     for case in matches[found]:
-        print("{} > {} {}".format(line, case, parts[-1]))
+        new_lines.append("{} > {} {}\n".format(line, case, parts[-1]))
+print("<<<", new_lines, ">>>>")
+
+with open("./data/cross-vertical/apparel.txt", 'w') as f:
+    f.writelines(new_lines)

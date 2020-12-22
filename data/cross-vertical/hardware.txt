@@ -845,7 +845,22 @@ Hardware > Tools > Tool Sets
 Hardware > Tools > Tool Sets > Hand Tool Sets
 Hardware > Tools > Tool Sets > Power Tool Combo Sets
 Hardware > Tools > Welding Guns & Plasma Cutters
-Hardware > Tools > Welding Tools
+Hardware > Tools > Welding Equipment
+Hardware > Tools > Welding Equipment > Arc Welders
+Hardware > Tools > Welding Equipment > Butt Welders
+Hardware > Tools > Welding Equipment > Electric Soldering Irons
+Hardware > Tools > Welding Equipment > Gas Welding Equipment
+Hardware > Tools > Welding Equipment > Laser Welders
+Hardware > Tools > Welding Equipment > MIG Welders
+Hardware > Tools > Welding Equipment > Plasma Welders
+Hardware > Tools > Welding Equipment > Plastic Welders
+Hardware > Tools > Welding Equipment > Press Welders
+Hardware > Tools > Welding Equipment > Resistance Welders
+Hardware > Tools > Welding Equipment > Seam Welders
+Hardware > Tools > Welding Equipment > Soldering Stations
+Hardware > Tools > Welding Equipment > Spot Welders
+Hardware > Tools > Welding Equipment > TIG Welders
+Hardware > Tools > Welding Equipment > Tube Welders
 Hardware > Tools > Wire & Cable Hand Tools
 Hardware > Tools > Wire & Cable Hand Tools > Cable Slitters
 Hardware > Tools > Wire & Cable Hand Tools > Snippers
