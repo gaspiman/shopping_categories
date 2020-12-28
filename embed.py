@@ -10,10 +10,11 @@ def clean(s):
     s = s.strip()
     s = s.replace("&", "")
     s = s.replace(">", "")
+    s = s.replace("'s", "")
+    # parts = s.split(" > ")
+    # s += " "+parts[-1]
+    # s += " "+parts[-1]
     s = " ".join(s.split())
-    #parts = s.split(" > ")
-    #s += " "+parts[-1]
-    #s += " "+parts[-1]
 
     return s.lower()
 
@@ -48,6 +49,32 @@ def cosine_similarity(a, b):
     return cos
 
 
+freq = {}
+
+
+def frequencies(paths):
+    total = 0.0
+    for path in paths:
+        with open(path) as f:
+            for line in f.readlines():
+                line = clean(line)
+                for word in line.split():
+                    total += 1.0
+                    if freq.get(word) is None:
+                        freq[word] = 1.0
+                    else:
+                        freq[word] += 1.0
+
+    for k, v in freq.items():
+        freq[k] = 1.0 - (v/total)
+
+    print(freq)
+
+
+frequencies(["./data/others/aliexpress_fixed.txt",
+             "./data/cross_vertical.txt"])
+
+
 def glove_embed(index, line):
     line = line.strip()
     tokens = line.split()
@@ -56,6 +83,7 @@ def glove_embed(index, line):
         vec = index.get(token, None)
         if vec is None:
             continue
+        vec = vec*freq[token]
         avg = avg + vec
     avg = avg / np.linalg.norm(avg)
     # print(avg)
@@ -108,7 +136,8 @@ with open("./data/alignment/aliexpress.txt", 'w') as ali_f:
             count = 0
             s = ""
             for k, v in sorted_d.items():
-                print(">>>", line, "|", k, "|", v)
+                if count == 0:
+                    print(">>>", line, "|", k, "|", v)
                 s += "|" + k + ":" + str(v)
                 if count > 1:
                     break
