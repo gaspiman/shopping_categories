@@ -47,7 +47,6 @@ for line in lines:
         continue
     for case in matches[found]:
         new_lines.append("{} > {} {}\n".format(line, case, parts[-1]))
-print("<<<", new_lines, ">>>>")
 
 with open("./data/cross_vertical/apparel.txt", 'w') as f:
     f.writelines(new_lines)

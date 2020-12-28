@@ -1,11 +1,12 @@
 import os
 from Levenshtein import distance
 
-paths = ["./data/aliexpress.txt", "./data/others/bing_shopping.txt"]
+paths = ["./data/others/aliexpress_fixed.txt",
+         "./data/cross_vertical.txt"]
 output = "./data/a_to_b.txt"
 
 """
-paths = ["./data/aliexpress.txt", "./data/others/google_shopping.txt"]
+paths = ["./data/others/aliexpress.txt", "./data/others/google_shopping.txt"]
 output = "./data/a_to_g.txt"
 """
 
@@ -48,9 +49,10 @@ for path in paths:
             #print("{}|{}|".format(line, value))
             m[line] = value
     maps.append(m)
-
+"""
 # fix aliexpress cats:
 new_val = {}
+ali_list = []
 for k, v in maps[0].items():
     print(k, v)
     parts = k.split(">")
@@ -65,6 +67,18 @@ for k, v in maps[0].items():
 
 for k, v in new_val.items():
     maps[0][k] = v
+
+for k, _ in maps[0].items():
+    ali_list.append(k)
+
+ali_list.sort()
+print(ali_list)
+
+with open("./data/others/aliexpress_fixed.txt", 'w') as f:
+    for cat in ali_list:
+        f.write(cat+"\n")
+exit()
+"""
 
 dist = 0
 
